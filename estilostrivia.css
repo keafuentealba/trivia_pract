@@ -1,0 +1,66 @@
+body{
+	background-color: #FFE521;
+}
+.contenedor{
+	width: 500px;
+	margin: auto;
+}
+.despedidaTriste{
+	font-size: 5em;
+	font-family: arial;
+	color: #009200;
+	text-align: center;
+}
+
+.logoLaboratoria{
+	width: 100%;
+}
+
+.tituloSaludo {
+	color: #FFFFFF;
+	font-family: arial;
+	font-size: 2em;
+	text-align: center;
+}
+
+.btnRecarga{
+	font-family: arial;
+	width: 200px;
+	height: 50px;
+	border-radius: 5%;
+	background: #FFA500;
+	border: 1px solid #FFA500;
+	color: #ffffff;
+	font-size: 1em;
+	cursor: pointer;
+}
+
+.respuestaCorrecta{
+	font-family: arial;
+	font-size: 1em;
+	color: #009200;
+}
+
+.respuestaIncorrecta{
+	font-family: arial;
+	font-size: 1em;
+	color: #BA0000;
+}
+.tituloResultado{
+	color: #FFFFFF;
+	font-family: arial;
+	font-size: 2em;
+	
+}
+.btn{
+	width: 200px;
+	height: 50px;
+	margin: 0 auto;
+
+}
+.puntaje{
+	color: #ffffff;
+	font-family: arial;
+	font-weight: bold;
+	margin-bottom: -33px;
+}
